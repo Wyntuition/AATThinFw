@@ -1,7 +1,7 @@
 Thin Automation Framework for Automated Acceptance Testing (AAT)
 =========
 
-Test-druve a thin AAT framework, taylored to your application
+Test-drive a thin AAT framework, taylored to your application
 
 
 Automated Acceptance Tests (AAT) can provide huge value, and can automate time-consuming tasks like regression testing, but aren't easy to scale. Have you tried implementing them only to abandon them later? Are they fragile? Do they give a lot of false positives? Do they take more time to write than the value you're getting out of them? These are common problems with automated acceptance testing, but there are ways to mitigate these issues. One great way is to create a very thin automation framework that helps you write the tests faster while reducing the fragility. 
