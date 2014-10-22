@@ -1,4 +1,4 @@
-AATThinFw
+Thin Automation Framework for Automated Acceptance Testing (AAT)
 =========
 
 Test-driven thin AAT framework
