@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{290CE41B-0E87-4E91-ABC5-07728EA48E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.UI.AutomationFramework.AppSandbox", "Tests.UI.AutomationFramework.AppSandbox\Tests.UI.AutomationFramework.AppSandbox.csproj", "{1A574A8B-B6F2-4F9E-B2B8-C488C02D9054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.UI.AppSandbox", "Tests.UI.AppSandbox\Tests.UI.AppSandbox.csproj", "{32E2EEF6-07F1-44B2-ABE1-FE54418E720B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A574A8B-B6F2-4F9E-B2B8-C488C02D9054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A574A8B-B6F2-4F9E-B2B8-C488C02D9054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A574A8B-B6F2-4F9E-B2B8-C488C02D9054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A574A8B-B6F2-4F9E-B2B8-C488C02D9054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E2EEF6-07F1-44B2-ABE1-FE54418E720B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E2EEF6-07F1-44B2-ABE1-FE54418E720B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E2EEF6-07F1-44B2-ABE1-FE54418E720B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E2EEF6-07F1-44B2-ABE1-FE54418E720B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A574A8B-B6F2-4F9E-B2B8-C488C02D9054} = {290CE41B-0E87-4E91-ABC5-07728EA48E04}
+		{32E2EEF6-07F1-44B2-ABE1-FE54418E720B} = {290CE41B-0E87-4E91-ABC5-07728EA48E04}
+	EndGlobalSection
+EndGlobal
